@@ -35,9 +35,8 @@
 
 ## Olá, seja bem-vindo!
 
-* Meu nome é Brendo Arcanjo, sou um Desenvolvedor Back-End, e sou apaixonado por desenvolvimento Back-End, API REST, microsserviços.
-
-* Meu objetivo é me tornar um excelente desenvolvedor Back-End, e, para isto, estou sempre estudando e buscando me especializar nas novas tecnologias através de especializações, cursos online e novos projetos e repositórios!
+* Meu nome é Brendo Arcanjo, Desenvolvedor Back-End na UFCA, e sou apaixonado por desenvolvimento Back-End, API REST e  microsserviços.
+* E meu objetivo é me tornar um desenvolvedor Back-End Java excelência, transformando a vida das pessoas através da tecnologia.
 
 ## Principais habilidades :fireworks:
 
