@@ -20,11 +20,12 @@
 <span><img height="35px" src="https://cdn.svgporn.com/logos/heroku.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/travis-ci.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/sonarqube.svg"></span>
-<span><img height="35px" src="https://cdn.svgporn.com/logos/docker.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/docker-icon.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/github.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/git.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/angular.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/javascript.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/jquery.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/html-5.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/css-3.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/linux-tux.svg"></span>
@@ -49,3 +50,4 @@
 * Tecnologias Java EE - JSF, JPA, EJB, CDI, JSP, JAX-WS...
 
 ## Sobre meu GitHub
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendo10x&count_private=true)
