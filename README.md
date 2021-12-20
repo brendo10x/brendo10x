@@ -1,5 +1,4 @@
-![ViewCount](https://views.whatilearened.today/views/github/brendo10x/sachinchaturvedi93.svg?cache=remove)
-# Brendo Arcanjo 
+# Brendo Arcanjo  ![ViewCount](https://views.whatilearened.today/views/github/brendo10x/sachinchaturvedi93.svg?cache=remove)
 ### Desenvolvedor Back-End
 
 [![Linkedin Badge](https://img.shields.io/badge/-brendo--arcanjo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brendo-arcanjo/)](https://www.linkedin.com/in/brendo-arcanjo/)
