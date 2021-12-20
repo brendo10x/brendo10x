@@ -49,4 +49,6 @@
 * Tecnologias Java EE - JSF, JPA, EJB, CDI, JSP, JAX-WS...
 
 ## Sobre meu GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendo10x&count_private=true)
+![Metrics](https://metrics.lecoq.io/brendo10x?template=terminal&config.timezone=America%2FFortaleza)
+
+
