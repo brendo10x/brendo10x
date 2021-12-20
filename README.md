@@ -48,7 +48,7 @@
 * Aplicação de métodos ágeis: scrum, xp.
 * Tecnologias Java EE - JSF, JPA, EJB, CDI, JSP, JAX-WS...
 
-## Sobre meu GitHub
+## Meu GitHub
 ![Metrics](https://metrics.lecoq.io/brendo10x?template=terminal&config.timezone=America%2FFortaleza)
 
 
