@@ -1,8 +1,9 @@
 ![ViewCount](https://views.whatilearened.today/views/github/brendo10x/sachinchaturvedi93.svg?cache=remove)
 # Brendo Arcanjo 
-[![Twitter Badge](https://img.shields.io/badge/-@brendoarcanjo-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/brendoarcanjo)](https://twitter.com/brendoarcanjo) [![Linkedin Badge](https://img.shields.io/badge/-brendo--arcanjo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brendo-arcanjo/)](https://www.linkedin.com/in/brendo-arcanjo/)
+[![Linkedin Badge](https://img.shields.io/badge/-brendo--arcanjo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brendo-arcanjo/)](https://www.linkedin.com/in/brendo-arcanjo/)
 [![Gmail Badge](https://img.shields.io/badge/-brendo10x@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brendo10x@gmail.com)](mailto:brendo10x@gmail.cocm)
-[![Instagram Badge](https://img.shields.io/badge/-brendoarcanjo-c14438?style=flat-square&logo=Instagram&logoColor=white&link=mailto:brendoarcanjo)](mailto:brendoarcanjo)
+[![Instagram Badge](https://img.shields.io/badge/-brendoarcanjo-c14438?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/brendoarcanjo)](https://instagram.com/brendoarcanjo)
+[![Twitter Badge](https://img.shields.io/badge/-@brendoarcanjo-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/brendoarcanjo)](https://twitter.com/brendoarcanjo)
 ### Desenvolvedor Back-End
 
 <span><img height="35px" src="https://cdn.svgporn.com/logos/java.svg"></span>
