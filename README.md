@@ -1,10 +1,12 @@
 ![ViewCount](https://views.whatilearened.today/views/github/brendo10x/sachinchaturvedi93.svg?cache=remove)
 # Brendo Arcanjo 
+### Desenvolvedor Back-End
+
 [![Linkedin Badge](https://img.shields.io/badge/-brendo--arcanjo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brendo-arcanjo/)](https://www.linkedin.com/in/brendo-arcanjo/)
 [![Gmail Badge](https://img.shields.io/badge/-brendo10x@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brendo10x@gmail.com)](mailto:brendo10x@gmail.cocm)
 [![Instagram Badge](https://img.shields.io/badge/-brendoarcanjo-c14438?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/brendoarcanjo)](https://instagram.com/brendoarcanjo)
 [![Twitter Badge](https://img.shields.io/badge/-@brendoarcanjo-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/brendoarcanjo)](https://twitter.com/brendoarcanjo)
-### Desenvolvedor Back-End
+---
 
 <span><img height="35px" src="https://cdn.svgporn.com/logos/java.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/spring.svg"></span>
@@ -30,3 +32,21 @@
 <span><img height="35px" src="https://cdn.svgporn.com/logos/eclipse-icon.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/wildfly.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/apache.svg"></span>
+
+## Olá, seja bem-vindo!
+
+* Meu nome é Brendo Arcanjo, sou um Desenvolvedor Back-End, e sou apaixonado por desenvolvimento Back-End, API REST, microsserviços.
+
+* Meu objetivo é me tornar um excelente desenvolvedor Back-End, e, para isto, estou sempre estudando e buscando me especializar nas novas tecnologias através de especializações, cursos online e novos projetos e repositórios!
+
+## Principais habilidades :fireworks:
+
+* Desenvolvimento Back-End com Java e Spring Boot
+* Criação de API REST
+* Conhecimento e experiência com bancos de dados SQL e NoSQL
+* Desenvolvimento orientado a teste (TDD)
+* Adoção de boas práticas de programação: SOLID, Design Pattern, KISS, Clean Code.
+* Aplicação de métodos ágeis: scrum, xp.
+* Tecnologias Java EE - JSF, JPA, EJB, CDI, JSP, JAX-WS...
+
+## Sobre meu GitHub
