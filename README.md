@@ -38,8 +38,16 @@
 <span><img height="35px" src="https://cdn.svgporn.com/logos/apache.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/material-ui.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/bootstrap.svg"></span>
-<span><img height="35px" src="https://cdn.svgporn.com/logos/wordpress.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/wordpress-icon.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/joomla.svg"></span>
+
+<span><img height="35px" src="https://cdn.svgporn.com/logos/cakephp-icon.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/laravel.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/intellij-idea.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/pycharm.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/webstorm.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/hibernate.svg"></span>
+
 
 ## Olá, seja bem-vindo!
 
