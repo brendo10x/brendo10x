@@ -24,6 +24,7 @@
 <span><img height="35px" src="https://cdn.svgporn.com/logos/git.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/gitlab.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/angular.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/typescript-icon.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/javascript.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/jquery.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/html-5.svg"></span>
