@@ -16,6 +16,8 @@
 <span><img height="35px" src="https://cdn.svgporn.com/logos/postgresql.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/mongodb.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/aws.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/aws-s3.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/aws-iam.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/heroku.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/travis-ci.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/sonarqube.svg"></span>
