@@ -36,6 +36,10 @@
 <span><img height="35px" src="https://cdn.svgporn.com/logos/eclipse-icon.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/wildfly.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/apache.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/material-ui.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/bootstrap.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/wordpress.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/joomla.svg"></span>
 
 ## Olá, seja bem-vindo!
 
