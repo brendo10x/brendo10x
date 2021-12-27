@@ -63,6 +63,7 @@
 * Tecnologias Java EE - JSF, JPA, EJB, CDI, JSP, JAX-WS...
 
 ## Sobre meu GitHub
-![Metrics](https://metrics.lecoq.io/brendo10x?template=terminal&config.timezone=America%2FFortaleza)
+![Metrics](https://metrics.lecoq.io/brendo10x?template=classic&config.timezone=America%2FFortaleza)
+
 
 
