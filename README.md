@@ -49,7 +49,7 @@
 
 ## Olá, seja bem-vindo!
 
-* Meu nome é Brendo Arcanjo, Desenvolvedor Back-End na Bycoders_, e sou apaixonado por desenvolvimento Back-End, API REST e  microsserviços.
+* Meu nome é Brendo Arcanjo, Desenvolvedor Back-End na Positivo, e sou apaixonado por desenvolvimento Back-End, API REST e  microsserviços.
 * Meu objetivo é me tornar um desenvolvedor Back-End Java de excelência, transformando a vida das pessoas através da tecnologia.
 
 ## Principais habilidades :fireworks:
